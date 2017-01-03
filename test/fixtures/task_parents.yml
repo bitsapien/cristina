@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  friends: one
+  my_tasks: one
+  conversations: one
+
+two:
+  friends: two
+  my_tasks: two
+  conversations: two
